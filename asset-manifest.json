@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Gym/static/css/main.279573a5.css",
+    "main.js": "/React-Gym/static/js/main.a83882a5.js",
+    "static/media/banner.png": "/React-Gym/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/React-Gym/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/React-Gym/index.html",
+    "main.279573a5.css.map": "/React-Gym/static/css/main.279573a5.css.map",
+    "main.a83882a5.js.map": "/React-Gym/static/js/main.a83882a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279573a5.css",
+    "static/js/main.a83882a5.js"
+  ]
+}
